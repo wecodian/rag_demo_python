@@ -22,7 +22,7 @@ Examples of prohibited behavior include:
 - Displaying offensive or inappropriate materials.
 - Retaliation against an individual for reporting misconduct.
 
-Any employee who experiences or witnesses discrimination or harassment should report it immediately to their supervisor, the Human Resources department, or via the company’s confidential reporting system. Reports will be taken seriously and investigated promptly.
+Any employee who experiences or witnesses discrimination or harassment should report it immediately to their supervisor, the Human Resources department, or via the company's confidential reporting system. Reports will be taken seriously and investigated promptly.
 ---
 5.3 Confidentiality and Data Protection
 Employees must protect the confidentiality of company, client, and employee information. Unauthorized disclosure of confidential information is strictly prohibited and may result in disciplinary action.
@@ -101,40 +101,40 @@ At Wecodian, we provide employees with the necessary tools and technology to per
 6.1 Logging into the Company System
 Employees are required to log into company systems securely using their assigned credentials. Follow these steps to access the company network:
 
-1. Power on your device – Turn on your computer and wait for the login screen.
-2. Enter your credentials – Use your assigned username and password.
-3. Enable multi-factor authentication (MFA) – If prompted, enter the verification code sent to your registered email or phone.
-4. Access company applications – Once logged in, use the company dashboard to access necessary tools and resources.
-5. Log out when finished – Always log out when stepping away from your computer to prevent unauthorized access.
+1. Power on your device - Turn on your computer and wait for the login screen.
+2. Enter your credentials - Use your assigned username and password.
+3. Enable multi-factor authentication (MFA) - If prompted, enter the verification code sent to your registered email or phone.
+4. Access company applications - Once logged in, use the company dashboard to access necessary tools and resources.
+5. Log out when finished - Always log out when stepping away from your computer to prevent unauthorized access.
 
 If you experience any login issues, contact the IT Helpdesk immediately.
 ---
 6.2 Using Company Computers and Devices
 Employees are provided with company-issued devices for work-related purposes. The following guidelines apply:
-- Use company devices for business purposes only – Personal use should be limited and comply with company policies.
-- Do not install unauthorized software – All software installations must be approved by IT.
-- Keep your system updated – Regular updates help protect against security vulnerabilities.
-- Report malfunctions promptly – If your device is not working correctly, notify the IT department.
+- Use company devices for business purposes only - Personal use should be limited and comply with company policies.
+- Do not install unauthorized software - All software installations must be approved by IT.
+- Keep your system updated - Regular updates help protect against security vulnerabilities.
+- Report malfunctions promptly - If your device is not working correctly, notify the IT department.
 ---
 6.3 Accessing Company Email and Cloud Services
 Employees are assigned company email accounts and cloud storage access. Use these responsibly:
-- Check email regularly – Important company communications will be sent via email.
-- Do not share credentials – Your email and cloud access should remain private.
-- Use professional language – Emails should be clear, concise, and work-related.
-- Store files securely – Use designated cloud storage to save work documents instead of local drives.
+- Check email regularly - Important company communications will be sent via email.
+- Do not share credentials - Your email and cloud access should remain private.
+- Use professional language - Emails should be clear, concise, and work-related.
+- Store files securely - Use designated cloud storage to save work documents instead of local drives.
 ---
 6.4 IT Security Best Practices
 To maintain system security, employees must:
-- Use strong passwords – Create complex passwords and update them regularly.
-- Beware of phishing scams – Do not click on suspicious links or attachments.
-- Lock your screen – Always lock your screen when away from your workstation.
-- Report security concerns – If you notice any unusual activity, inform the IT security team immediately.
+- Use strong passwords - Create complex passwords and update them regularly.
+- Beware of phishing scams - Do not click on suspicious links or attachments.
+- Lock your screen - Always lock your screen when away from your workstation.
+- Report security concerns - If you notice any unusual activity, inform the IT security team immediately.
 ---
 6.5 Remote Access and VPN Usage
 For employees working remotely or traveling, secure access to company systems is critical:
-- Use an approved VPN – Connect to the company’s Virtual Private Network (VPN) for secure access.
-- Avoid public Wi-Fi – Use a secure network to prevent data breaches.
-- Follow remote work policies – Adhere to all company guidelines for data protection when working remotely.
+- Use an approved VPN - Connect to the company's Virtual Private Network (VPN) for secure access.
+- Avoid public Wi-Fi - Use a secure network to prevent data breaches.
+- Follow remote work policies - Adhere to all company guidelines for data protection when working remotely.
 ---
 Conclusion
 By following these guidelines, employees can ensure smooth and secure access to company systems. If you encounter any issues, the IT department is available to assist with troubleshooting and security concerns.
