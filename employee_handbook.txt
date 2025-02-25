@@ -1,0 +1,174 @@
+Chapter 5: Employee Conduct and Workplace Policies
+
+Introduction
+At Wecodian, we are committed to fostering a professional, inclusive, and productive work environment. Our workplace policies are designed to ensure that all employees are treated with respect and that our company operates with integrity. This chapter outlines the expectations for employee conduct and workplace behavior, including policies on professional ethics, communication, confidentiality, attendance, and workplace safety.
+
+---
+
+5.1 Professional Conduct
+Employees are expected to conduct themselves professionally at all times, whether interacting with colleagues, clients, or vendors. Professional conduct includes, but is not limited to:
+- Treating all coworkers with respect and courtesy.
+- Maintaining honesty and integrity in all business dealings.
+- Adhering to company policies and procedures.
+- Avoiding any behavior that could be considered offensive, discriminatory, or harassing.
+
+Failure to maintain professional conduct may result in disciplinary action, up to and including termination.
+
+---
+
+5.2 Anti-Discrimination and Harassment Policy
+Wecodian is committed to providing a workplace free from discrimination, harassment, and retaliation. Discrimination and harassment, whether based on race, gender, age, religion, disability, sexual orientation, or any other protected characteristic, will not be tolerated.
+
+Examples of prohibited behavior include:
+- Unwelcome verbal or physical conduct based on a protected characteristic.
+- Offensive jokes, slurs, or derogatory remarks.
+- Inappropriate or unwanted physical contact.
+- Displaying offensive or inappropriate materials.
+- Retaliation against an individual for reporting misconduct.
+
+Any employee who experiences or witnesses discrimination or harassment should report it immediately to their supervisor, the Human Resources department, or via the company’s confidential reporting system. Reports will be taken seriously and investigated promptly.
+
+---
+
+5.3 Confidentiality and Data Protection
+Employees must protect the confidentiality of company, client, and employee information. Unauthorized disclosure of confidential information is strictly prohibited and may result in disciplinary action.
+
+Confidential information includes, but is not limited to:
+- Customer data and business records.
+- Financial information and trade secrets.
+- Employee records and personal information.
+- Proprietary business strategies and plans.
+
+Employees should take reasonable precautions to safeguard confidential information, including:
+- Using secure passwords and authentication measures.
+- Avoiding discussions about sensitive information in public or unsecured locations.
+- Reporting any suspected data breaches or security concerns immediately.
+
+---
+
+5.4 Attendance and Punctuality
+Consistent attendance and punctuality are essential to maintaining workplace productivity. Employees are expected to report to work on time and adhere to their assigned schedules.
+
+- If an employee will be late or absent, they must notify their supervisor as soon as possible.
+- Excessive absences or tardiness may result in corrective action.
+- Planned time off should be requested in advance and approved by management.
+- Unauthorized absences may lead to disciplinary measures.
+
+---
+
+5.5 Workplace Safety
+The safety and well-being of employees are a top priority at Wecodian. Employees must adhere to all workplace safety guidelines, including:
+- Following posted safety regulations and emergency procedures.
+- Reporting unsafe conditions or hazards to a supervisor immediately.
+- Using protective equipment as required for specific job tasks.
+- Refraining from engaging in dangerous or reckless behavior.
+
+In the event of an emergency, employees should follow the designated emergency evacuation procedures and report to the assigned meeting area.
+
+---
+
+5.6 Use of Company Property and Resources
+Employees must use company property and resources responsibly and only for business-related purposes.
+
+- Company computers, email, and internet access should be used professionally and in accordance with company policies.
+- Employees should not use company equipment for personal gain, illegal activities, or unethical purposes.
+- Any damage or loss of company property must be reported to management immediately.
+
+---
+
+5.7 Code of Ethics and Integrity
+At Wecodian, we expect all employees to act with integrity in all professional interactions. This means:
+- Avoiding conflicts of interest.
+- Complying with all laws and company policies.
+- Reporting unethical or fraudulent behavior.
+- Acting in the best interests of the company and its stakeholders.
+
+If an employee is unsure whether a situation constitutes an ethical violation, they should seek guidance from their supervisor or the HR department.
+
+---
+
+5.8 Workplace Communication
+Effective communication is vital to a productive workplace. Employees should:
+- Use respectful and professional language in all communications.
+- Avoid gossip and negative discussions about colleagues.
+- Ensure emails and messages are clear, concise, and professional.
+- Refrain from sharing misleading or false information.
+
+---
+
+5.9 Reporting Violations and Whistleblower Protection
+Employees are encouraged to report violations of company policies, unethical behavior, or illegal activities. Wecodian prohibits retaliation against employees who make good-faith reports.
+
+Employees can report concerns through:
+- Their immediate supervisor.
+- The Human Resources department.
+- A confidential whistleblower hotline (if applicable).
+
+All reports will be handled with discretion and investigated appropriately.
+
+---
+
+Conclusion
+By adhering to these workplace policies, employees contribute to a respectful, safe, and professional work environment. Employees with any questions regarding these policies should contact their supervisor or HR department for clarification.
+
+Failure to comply with these policies may result in disciplinary action, up to and including termination of employment.
+
+---
+
+Chapter 6: Accessing and Using Company Systems
+
+Introduction
+At Wecodian, we provide employees with the necessary tools and technology to perform their job efficiently. This chapter outlines the procedures for logging into company systems, using company computers, and adhering to IT security protocols.
+
+---
+
+6.1 Logging into the Company System
+Employees are required to log into company systems securely using their assigned credentials. Follow these steps to access the company network:
+
+1. Power on your device – Turn on your computer and wait for the login screen.
+2. Enter your credentials – Use your assigned username and password.
+3. Enable multi-factor authentication (MFA) – If prompted, enter the verification code sent to your registered email or phone.
+4. Access company applications – Once logged in, use the company dashboard to access necessary tools and resources.
+5. Log out when finished – Always log out when stepping away from your computer to prevent unauthorized access.
+
+If you experience any login issues, contact the IT Helpdesk immediately.
+
+---
+
+6.2 Using Company Computers and Devices
+Employees are provided with company-issued devices for work-related purposes. The following guidelines apply:
+- Use company devices for business purposes only – Personal use should be limited and comply with company policies.
+- Do not install unauthorized software – All software installations must be approved by IT.
+- Keep your system updated – Regular updates help protect against security vulnerabilities.
+- Report malfunctions promptly – If your device is not working correctly, notify the IT department.
+
+---
+
+6.3 Accessing Company Email and Cloud Services
+Employees are assigned company email accounts and cloud storage access. Use these responsibly:
+- Check email regularly – Important company communications will be sent via email.
+- Do not share credentials – Your email and cloud access should remain private.
+- Use professional language – Emails should be clear, concise, and work-related.
+- Store files securely – Use designated cloud storage to save work documents instead of local drives.
+
+---
+
+6.4 IT Security Best Practices
+To maintain system security, employees must:
+- Use strong passwords – Create complex passwords and update them regularly.
+- Beware of phishing scams – Do not click on suspicious links or attachments.
+- Lock your screen – Always lock your screen when away from your workstation.
+- Report security concerns – If you notice any unusual activity, inform the IT security team immediately.
+
+---
+
+6.5 Remote Access and VPN Usage
+For employees working remotely or traveling, secure access to company systems is critical:
+- Use an approved VPN – Connect to the company’s Virtual Private Network (VPN) for secure access.
+- Avoid public Wi-Fi – Use a secure network to prevent data breaches.
+- Follow remote work policies – Adhere to all company guidelines for data protection when working remotely.
+
+---
+
+Conclusion
+By following these guidelines, employees can ensure smooth and secure access to company systems. If you encounter any issues, the IT department is available to assist with troubleshooting and security concerns.
